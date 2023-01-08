@@ -1,13 +1,13 @@
-title:              Clean Blog
-email:              your-email@example.com
+title:              Machine Learning Projects
+email:              hounnou2@illinois.edu
 description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+author:             Leon Hounnou
+baseurl:            ""
+url:                "https://Hounnou.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
+twitter_username:   
+github_username:    Hounnou
 facebook_username:  StartBootstrap
 instagram_username:  
 linkedin_username:
