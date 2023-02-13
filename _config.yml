@@ -1,6 +1,6 @@
 title:              Machine Learning Projects
 email:              hounnou2@illinois.edu
-description:        A Blog Theme by Start Bootstrap
+description:        
 author:             Leon Hounnou
 baseurl:            ""
 url:                "https://Hounnou.github.io"
@@ -8,9 +8,9 @@ url:                "https://Hounnou.github.io"
 # Social Profiles
 twitter_username:   
 github_username:    Hounnou
-facebook_username:  StartBootstrap
+facebook_username:  
 instagram_username:  
-linkedin_username:
+linkedin_username:  hounnouleon
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
