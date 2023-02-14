@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Contact Me
-description: Through email or linkedIn below
+description: Email or linkedIn
 background: '/img/bg2-contact.jpg'
-form: false
+form: true
 ---
 
 <p>Click on the link below to know more about me via linkedIn</p>
@@ -19,3 +19,18 @@ form: false
 <p><a href="https://scholar.google.com/citations?hl=en&user=o4zIiYEAAAAJ" target="_blank">Google scholar</a></p>
 
 
+<form
+  action="https://formspree.io/f/mqkopwoq"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
